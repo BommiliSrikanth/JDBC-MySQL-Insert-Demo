@@ -1,0 +1,5 @@
+Connected to MySQL database successfully!
+Table 'users' is ready (created if it did not exist).
+Inserted 1 row(s): John Doe
+Inserted 1 row(s): Jane Doe
+Data inserted successfully.
